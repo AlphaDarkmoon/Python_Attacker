@@ -26,4 +26,4 @@ I do NOT enourage people to do something like this themselves/to themselves.
 
 NEVER use malware, or anything that is, but no limited to, malware, anything remotely capable of destroying computers, or even "joke programs" on your own or other people's computers, not even with their consent, as this can have bad, unforeseen consequences.
 
-Support me on Patreon for more tools & Scrips.
+# Support me on Patreon for more tools & Scrips.
