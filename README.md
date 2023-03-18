@@ -1,5 +1,6 @@
 # Python_Attacker
 Use this tool script to make your pendrive as Python Attacking Drive.
+for python attacking scripts checkout my other repositories and star it.
 
 
 - Replace sam.py with your python script in autorun.inf and in script folder
